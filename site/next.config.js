@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'OSINT Technologies',
+    name: 'OSINT.pw Workspaces',
     description: 'The official Kasm workspace for osint.pw',
     icon: '/img/logo.svg',
     listUrl: 'https://osintpw.github.io/kasm-registry/',
@@ -10,7 +10,7 @@ const nextConfig = {
   },
   reactStrictMode: true,
   swcMinify: true,
-  basePath: '/1.0',
+  basePath: '/kasm-registry/1.0',
   trailingSlash: true,
   images: {
     unoptimized: true,
